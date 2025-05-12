@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  background: url('/images/darrys.jpg') no-repeat center center fixed;
+  background: url('darrys.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   font-family: 'Minecraft', sans-serif;
